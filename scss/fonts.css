@@ -1,0 +1,20 @@
+@font-face {
+    font-family:'proxima_nova_semibold';
+    src: url('../fonts/ofont.ru_Proxima\ Nova.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family:'proxima_nova_bold';
+    src: url('../fonts/proxima-nova-bold.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family:'PT_sans_italic';
+    src: url('../fonts/2222\ \(1\).ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family:'PT_sans';
+    src: url('../fonts/2221.ttf');
+    font-weight: 400;
+}
